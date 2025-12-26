@@ -40,7 +40,9 @@ Designed to demonstrate **business intelligence, dashboarding, and analytical st
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots in the Screenshots folder and embed here)*
+<img width="1487" height="853" alt="Instagram dashboard" src="https://github.com/user-attachments/assets/73616de9-bc10-4150-a9ed-1999678dab7d" />
+
+<img width="1483" height="851" alt="Facebook Dashboard" src="https://github.com/user-attachments/assets/6a0c6c5a-c680-46f7-9e61-d5ea10d40664" />
 
 ---
 
